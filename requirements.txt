@@ -1,1 +1,1 @@
-# No third-party dependencies are required yet.
+PySide6>=6.8,<7
